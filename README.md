@@ -1,5 +1,7 @@
 ### GithubExplorer, written three ways
 
+![alt text](https://github.com/jdayCBRE/jdayCBRE.github.io/blob/master/media/GithubExplorer_iOS.gif)
+
 GithubExplorer is a simple mobile app with a few features that exercise common mobile development patterns, including:
 - Login/logout and user state management
 - Network requests to a REST API (`api.github.com`)
